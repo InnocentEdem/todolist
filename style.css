@@ -1,0 +1,36 @@
+body{
+    background-image: url("images/edem.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',   sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+ .menu{
+ text-align: center;
+ 
+ 
+}
+button{
+    width: 100px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: 20px;
+    border: solid;
+    color: teal;
+
+}
+div{
+    padding: 150px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin: 2px;
+    padding: 2px;
+}
+button:hover{
+color: tomato;
+}

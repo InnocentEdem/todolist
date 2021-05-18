@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(236, 96, 61, 0.4);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',   sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.container{
+    background-color: seashell;
+    width: 30%;
+    height: 500px;
+    border: solid green;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+   
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.todo{
+    padding: 10px;
+    margin:3px;}

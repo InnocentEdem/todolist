@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(200, 247, 197, 1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',   sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.container{
+   background-color: wheat;
+    width: 30%;
+    height: 500px;
+    border: solid green;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+   
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.todo{
+    padding: 10px;
+    margin:3px;
+}
+    li{
+        text-decoration: line-through;
+        text-decoration-color: red;
+    }
