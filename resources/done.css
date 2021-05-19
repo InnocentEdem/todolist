@@ -27,3 +27,6 @@ h2{
         text-decoration: line-through;
         text-decoration-color: red;
     }
+    #nav{
+        margin-left: 200px;
+    }
